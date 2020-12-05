@@ -1,0 +1,46 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: sans-serif;
+}
+h1
+{
+    color:greenyellow;
+    font-size: 23;
+    margin-bottom: 20;
+}
+h2
+{
+    font-size: 20;
+    color:blueviolet;
+    margin-bottom: 15;
+}
+h3
+{
+    color: RGB(40,36,125);
+    font-size: 18;
+}
+
+p {
+    font-size: 16;
+    text-align: justify;
+    font-family: Arial;
+    color:#ff6200;    
+}
+
+.mainText
+{
+    text-align: justify-all;
+    margin-bottom: 20;
+}
+
+#authorText
+{
+    color: beige;
+}
